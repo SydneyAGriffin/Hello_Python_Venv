@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on %(date)s
+Created on %(12/26/2020)s
 
-@author: %(username)s
+@author: %(SydneyG)s
 """
 
